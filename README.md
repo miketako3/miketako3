@@ -2,9 +2,9 @@
 📛 My real name is **Kaito Hiruta** (**蛭田 海斗** in Japanese).<br>
 🔭 I’m currently working on **Yahoo Japan Corporation**.<br>
 📫 How to reach me **kaito@hiru-t.com**.<br>
-📄 Know about my experiences [linkedin.com/in/hiru-t](linkedin.com/in/hiru-t).<br>
-📝 I regularly write articles on [blog.miketako.xyz](blog.miketako.xyz).<br>
-🎈 A fun fact about me is my **AI Tuber** [channel.code385.com](channel.code385.com).<br>
+📄 Know about my experiences [in/hiru-t](https://linkedin.com/in/hiru-t).<br>
+📝 I regularly write articles on [blog.miketako.xyz](https://blog.miketako.xyz).<br>
+🎈 A fun fact about me is my **AI Tuber** [channel.code385.com](https://channel.code385.com).<br>
 
 
 ## 🌐 Socials:
