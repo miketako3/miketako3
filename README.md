@@ -1,6 +1,6 @@
 # 💫 About Me:
-📛 My real name is **Kaito Hiruta** (**蛭田 海斗** in Japanese).<br>
-🔭 I’m currently working on **Yahoo Japan Corporation**.<br>
+📛 **Kaito Hiruta** (**蛭田 海斗** in Japanese).<br>
+🔭 I’m currently working on **LY Corporation**.<br>
 📫 How to reach me **kaito@hiru-t.com**.<br>
 📄 Know about my experiences [in/hiru-t](https://linkedin.com/in/hiru-t).<br>
 📝 I regularly write articles on [blog.miketako.xyz](https://blog.miketako.xyz).<br>
