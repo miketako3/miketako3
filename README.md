@@ -1,11 +1,7 @@
 # 💫 About Me:
 📛 **Kaito Hiruta** (**蛭田 海斗** in Japanese).<br>
-🔭 I’m currently working on **LY Corporation**.<br>
-📫 How to reach me **kaito@hiru-t.com**.<br>
 📄 Know about my experiences [in/hiru-t](https://linkedin.com/in/hiru-t).<br>
-📝 I regularly write articles on [blog.miketako.xyz](https://blog.miketako.xyz).<br>
-🎈 A fun fact about me is my **AI Tuber** [channel.code385.com](https://channel.code385.com).<br>
-
+📝 I regularly write articles on [miketako.xyz](https://miketako.xyz).<br>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/kaito.hirut) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hiru-t) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/miketako3) 
